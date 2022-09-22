@@ -1,4 +1,4 @@
-#!/usr/local/bin/python3
+#!/usr/bin/python3
 """ Starts a Flash Web Application """
 from flask import Flask, render_template
 app = Flask(__name__)
